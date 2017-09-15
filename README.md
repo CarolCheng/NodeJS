@@ -32,3 +32,7 @@ console.log('Server running at http://127.0.0.1:80/');
 https://stackoverflow.com/questions/22584268/node-js-https-pem-error-routinespem-read-biono-start-line
 2. Automatic HTTPS connection/redirect with node.js/express
 https://stackoverflow.com/questions/7450940/automatic-https-connection-redirect-with-node-js-express
+3. How To Install an SSL Certificate from a Commercial Certificate Authority
+https://www.digitalocean.com/community/tutorials/how-to-install-an-ssl-certificate-from-a-commercial-certificate-authority
+4. How to Setup SSL Certificate with Node.js in Linux
+https://tecadmin.net/setup-ssl-certificate-with-node-js-in-linux/
